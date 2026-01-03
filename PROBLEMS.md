@@ -7,6 +7,7 @@
 2. DeclareAndPrintVariables
 3. Arithmetic Operations – +, -, *, /
 4. Swap two numbers using third variable
+5. Swap Two Numbers Without Using Third Variable
 
 
 ### Section-02 Variables & Data Types
