@@ -8,6 +8,7 @@
 3. Arithmetic Operations – +, -, *, /
 4. Swap two numbers using third variable
 5. Swap Two Numbers Without Using Third Variable
+6. Remove static from main method, observe error, explain why main must be static
 
 
 ### Section-02 Variables & Data Types
