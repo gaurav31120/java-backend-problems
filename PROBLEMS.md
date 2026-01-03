@@ -10,6 +10,8 @@
 5. Swap Two Numbers Without Using Third Variable
 6. Remove static from main method, observe error, explain why main must be static
 7. Rename class not matching file name, observe error, explain
+8. Explain JDK, JRE, JVM and Java execution flow in comments
+
 
 
 
