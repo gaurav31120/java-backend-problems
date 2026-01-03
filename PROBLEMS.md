@@ -6,6 +6,7 @@
 1. Hello Backend – print basic information
 2. DeclareAndPrintVariables
 3. Arithmetic Operations – +, -, *, /
+4. Swap two numbers using third variable
 
 
 ### Section-02 Variables & Data Types
